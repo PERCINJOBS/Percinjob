@@ -1,0 +1,67 @@
+Each 
+
+body 
+{margin: 0;
+    background-color: aliceblue
+; background-attachment: fixed;/* fix the background image */ scale: the image to the container */
+background-position:center;/*center the background image */ height: vh; /* set container height
+to full viewport height */ width:100vw; /* set container width to full viewport width */
+}
+body{
+    position: absolute;
+}
+.box-1{background-color: black;}
+
+.container{
+    width: 288px;
+}
+
+.profile-pic-figure{
+    
+}
+
+.profile-pic-figure img{
+    
+    border: 5px double :brown;
+    border-radius: 49%;
+
+}
+.box-2{
+    text-align: center;
+    float:center:center;
+    width: 61%;
+    background:skyblue;
+    color: black;
+    padding: 11px;
+box-sizing: border-box;
+border-right:3px red;
+}
+.box-3{
+    float:center:center;
+    background: SKYblue;
+    width: 99%;
+    color: black;
+    padding: 11px;
+box-sizing: border-box;
+}
+.container{
+    width: 311px;
+    margin: auto;
+}
+
+.ham-memu{
+    
+    color: black;
+    padding: none;
+
+    background-color: darkgrey;
+    width: 1399px;
+    position: fixed;
+    display: flex;
+    gap: 1rem;
+}
+
+marquee{
+    position: fixed;
+    background-color: deepskyblue;
+}
